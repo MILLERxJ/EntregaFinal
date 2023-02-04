@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">A proposito di me</string>
+    <string name="opcion2">Inglese</string>
+    <string name="opcion3">Spagnolo</string>
+    <string name="opcion4">Italiano</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Ristorante</string>
+
+    <string name="informacion">Sono uno studente di Software Development Assistant. Studio anche ingegneria del software, mi piace questo mondo della programmazione e vorrei sapere un po di tutto in tutti i campi della programmazione. Mi chiamo Juan Manuel Muñoz Gómez, attualmente ho 19 anni e ogni sfida è una sfida in più.
+    </string>
+
+    <string name="nombre">Juan Manuel Muñoz Gómez</string>
+    <string name="descripcion">Questa applicazione serve per cercare e prenotare l\'hotel più adatto a te.</string>
+</resources>

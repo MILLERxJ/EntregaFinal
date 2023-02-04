@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="opcion4">Italiano</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurante</string>
+
+    <string name="informacion">Soy estudiante de Asistente en Desarrollo de software. Tambien estudio la ingenieria en software, me gusta este mundo de la programación y me gustaria saber de todo un poco en todos los campos de la programacion. Mi nombre es Juan Manuel Muñoz Gómez, actualmente tengo 19 años y cualquier desafio es un reto de mas.
+    </string>
+
+    <string name="nombre">Juan Manuel Muñoz Gómez</string>
+    <string name="descripcion">Esta aplicación sirve para mirar y reservar el hotel que mejor te parezca.</string>
+</resources>

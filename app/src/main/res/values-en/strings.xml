@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="opcion4">Italian</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurant</string>
+
+    <string name="informacion">I am a student of Software development assistant.
+        I also study the engineer in software, i like this world of programming and i would like to know a little bit about almost everything in the programation.
+        My name is Juan Manuel Muñoz Gómez, currently i am 19 yearls young and every challenge is one more.
+    </string>
+
+    <string name="nombre">Juan Manuel Muñoz Gómez</string>
+    <string name="descripcion">This application is for watch and reserve the hotel that fit better for you</string>
+
+</resources>
