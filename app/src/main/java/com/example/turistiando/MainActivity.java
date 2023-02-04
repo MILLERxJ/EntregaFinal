@@ -52,13 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intentHoteles);
             }
         });
-        textoHotel.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intentHotele= new Intent(MainActivity.this,Hoteles.class);
-                startActivity(intentHotele);
-            }
-        });
+
         botonRestaurante.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -66,13 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intentResta);
             }
         });
-        textoRestaurante.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intentRestaurante= new Intent(MainActivity.this,Restaurantes.class);
-                startActivity(intentRestaurante);
-            }
-        });
+
     }
 
     //metodo para cambiar el idioma de mi app
